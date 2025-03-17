@@ -18,6 +18,10 @@ The dataset includes:
 5. **Payment Method Distribution** (Not shown on dashboard)
 6. **Discount Redemption Rate** (Not shown on dashboard)
 
+KPI's 5 and 6 were not shown on dashboard due to page being filled with other visualizations, thus, they will be continued on page 2, with maybe more KPI's added to analyze. However here are the results from the SQL queries for **Payment Method Distribution** and **Discount Redemption Rate**:
+
+
+
 ## **Technology Stack**  
 - **SQL Server Management Studio (SSMS)** – Data cleaning & querying
 - **Power BI** – Data visualization & dashboard creation
