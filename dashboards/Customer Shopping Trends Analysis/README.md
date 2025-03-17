@@ -1,4 +1,4 @@
-# **Customer Shopping Trends Analysis**  
+# **Customer Shopping Trends Analysis Using SQL & Power BI**  
 
 ## **Project Overview**  
 This project analyzes consumer shopping trends using a dataset containing transactional data across various product categories, customer demographics, and purchase behaviors. The goal is to uncover insights into purchasing patterns, seasonal trends, and customer preferences using SQL and Power BI.  
@@ -15,12 +15,19 @@ The dataset includes:
 2. **Average Transaction Value (ATV)**
 3. **Total Purchases by Item**
 4. **Top-Selling Items by Season**
-5. **Payment Method Distribution** (Not shown on dashboard)
-6. **Discount Redemption Rate** (Not shown on dashboard)
+5. **Percentage of sales by size**
+6. **Payment Method Distribution** (Not shown on dashboard)
+7. **Discount Redemption Rate** (Not shown on dashboard)
+
+### **Revenue - % of sales by size**
+<img src="./images/Revenue.png">
+
+### **ATV - Total Purchases by Item - Top-Selling Items by Season**
+<img src="./images/ATV_TPperItem_Topselling.png">
 
 KPI's 5 and 6 were not shown on dashboard due to page being filled with other visualizations, thus, they will be continued on page 2, with maybe more KPI's added to analyze. However here are the results from the SQL queries for **Payment Method Distribution** and **Discount Redemption Rate**:
 
-
+<img width="400px" src="./images/PD_DRR.png">
 
 ## **Technology Stack**  
 - **SQL Server Management Studio (SSMS)** – Data cleaning & querying
